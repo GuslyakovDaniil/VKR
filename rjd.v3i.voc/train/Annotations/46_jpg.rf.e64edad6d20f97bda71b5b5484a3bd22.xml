@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>46_jpg.rf.e64edad6d20f97bda71b5b5484a3bd22.jpg</filename>
+	<path>D:/prog/Python/VKR/rjd.v3i.voc/train/images/46_jpg.rf.e64edad6d20f97bda71b5b5484a3bd22.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poezd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>259</xmax>
+			<ymin>8</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
